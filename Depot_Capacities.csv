@@ -1,5 +1,5 @@
-depot,capacity,operating_cost
-H1,150,1000
-C1,100,800
-C2,60,700
-C3,50,600
+depot,capacity,operating_cost,cost_per_miles
+H1,150,1000,0.5
+C1,100,800,0.8
+C2,60,700,0.75
+C3,50,600,0.9
